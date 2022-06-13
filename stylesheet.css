@@ -57,8 +57,20 @@ header, footer {
 	text-align: left !important;
 	padding: 1% 10%;
 }
+h1 {
+	color: #eb7118;
+}
+h2 {
+	color: #fcd051;
+}
+h3 {
+	color: #aaa;
+}
 p {
 	font-size: 16px;
+	color: #fff;
+}
+li {
 	color: #fff;
 }
 footer {
