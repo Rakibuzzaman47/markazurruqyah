@@ -1,0 +1,72 @@
+body {
+	text-align: center;
+}
+.header-logo {
+	width: 201px;
+	height: auto;
+}
+body {
+	background: #212529;
+}
+.container {
+	background: #624646;
+}
+header, footer {
+	background: #212529;
+}
+.navbar {
+	background-color: #212529;
+}
+.main-header-menu li {
+	display: inline-block;
+	border: 1px solid black;
+	padding: 5px 10px; 
+	margin: 5px;
+	text-transform: capitalize;
+} 
+.navbar li {
+	text-transform: capitalize;
+}
+.navbar-nav {
+	margin: 0 auto;
+}
+.dropdown-menu {
+	background-color: #624646;
+}
+.index-box-container {
+	background: #eee;
+	padding: 70px;
+	margin: 10px 0px;
+}
+.index-box-container h4 {
+	font-size: 20px;
+	font-weight: bold;
+}
+.profile-links ul, 
+.profile-links li {
+	text-align: left !important;
+}
+.profile-links li a:link,
+.profile-links li a:hover,
+.profile-links li a:active,
+.profile-links li a:visited {
+	text-decoration: none;
+	color: #fff;
+}
+.main-content {
+	text-align: left !important;
+	padding: 1% 10%;
+}
+p {
+	font-size: 16px;
+	color: #fff;
+}
+footer {
+	background: #212529;
+	color: #fff;
+	padding: 10px;
+}
+footer h5 {
+	font-size: 20px;
+	margin: 40px 0px;
+}
