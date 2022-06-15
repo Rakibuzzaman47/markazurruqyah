@@ -17,6 +17,9 @@ header, footer {
 a {
 	color: #fff;
 }
+a:hover {
+	color: #fff;
+}
 .navbar {
 	background-color: #212529;
 }
