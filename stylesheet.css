@@ -2,14 +2,14 @@ body {
 	text-align: center;
 }
 .header-logo {
-	width: 171px;
+	width: 161px;
 	height: auto;
 }
 body {
 	background: #212529;
 }
 .container {
-	background: #624646;
+	background: #555;
 }
 header, footer {
 	background: #212529;
@@ -21,7 +21,7 @@ a:hover {
 	color: #fff;
 }
 .navbar {
-	background-color: #212529;
+	background-color: #135da6;
 }
 .main-header-menu li {
 	display: inline-block;
@@ -74,9 +74,11 @@ a:hover {
 }
 h1 {
 	color: #eb7118;
+	font-size: 41px;
 }
 h2 {
 	color: #fcd051;
+	font-size: 25px;
 }
 h3 {
 	color: #aaa;
@@ -96,11 +98,16 @@ li {
 	background-color: #fcd051;
 }
 footer {
-	background: #212529;
 	color: #fff;
 	padding: 10px;
 }
 footer h5 {
 	font-size: 20px;
 	margin: 40px 0px;
+}
+header > .container {
+	background-color: #555;
+}
+.header-banner h1 {
+	padding-top: 17px;
 }
