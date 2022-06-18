@@ -114,3 +114,7 @@ header > .container {
 .jumbotron {
 	padding-top: 30px;
 }
+
+.main-content div {
+	color: #fff;
+}
